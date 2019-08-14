@@ -1,0 +1,9 @@
+link1:{{ https://github.com/codebasics/py/blob/master/ML/13_kmeans/13_kmeans_tutorial.ipynb }}
+
+link2: {{  https://github.com/codebasics/py/tree/master/ML }}
+
+link:3: {{ https://github.com/codebasics/py/blob/master/ML/7_logistic_reg/7_logistic_regression.ipynb }}
+
+link4: {{ https://github.com/codebasics/py }}
+
+link4: {{ 
